@@ -1,0 +1,10 @@
+Models,CISM,CFPQ,params(B),merged
+Huntgpt,80,72,20,76
+GPT 3.5 Turbo,50,72,20,61
+GPT 4,90,84,1000,87
+Llama 2 7B,40,60,7,50
+Llama 2 70B,50,60,70,55
+Llama 3 8B,80,56,8,68
+Llama 3 70B,80,68,70,74
+FalconLLM-108b,80,72,108,76
+Claude 3 Sonet,90,76,70,83
