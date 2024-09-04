@@ -1,0 +1,26 @@
+Questions,GPT 3.5 Turbo,GPT 4,FalconLLM 108B,Claude 3 Sonet,Llama 2 7B,Llama 2 70B,Llama 3 8B,Llama 3 70B,A
+Question 1,A,C,A,C,A,D,A,A,C
+Question 2,D,D,B,D,B,A,D,D,B
+Question 3,D,D,D,D,D,D,D,D,D
+Question 4,B,B,B,B,A,A,B,B,B
+Question 5,C,C,C,C,D,C,D,C,C
+Question 6,A,A,A,C,D,A,B,A,A
+Question 7,D,D,C,D,D,D,D,D,D
+Question 8,B,B,B,B,D,B,B,B,B
+Question 9,C,C,C,C,C,C,C,C,C
+Question 10,C,C,C,C,D,C,C,C,C
+Question 11,A,A,A,A,A,A,D,A,A
+Question 12,D,D,D,D,D,D,D,A,D
+Question 13,B,B,B,B,B,B,B,B,B
+Question 14,A,A,A,A,D,A,B,A,A
+Question 15,D,D,B,D,C,C,D,D,D
+Question 16,D,A,D,A,B,D,A,A,C
+Question 17,D,D,D,D,D,D,C,D,D
+Question 18,B,B,B,B,B,B,B,B,B
+Question 19,A,A,A,A,A,A,A,B,A
+Question 20,A,A,A,A,A,A,A,A,A
+Question 21,D,B,B,D,A,A,D,D,B
+Question 22,A,A,C,C,A,C,C,D,D
+Question 23,A,A,A,A,A,D,D,C,C
+Question 24,A,A,A,A,A,C,A,A,A
+Question 25,D,C,A,C,D,D,D,D,C
